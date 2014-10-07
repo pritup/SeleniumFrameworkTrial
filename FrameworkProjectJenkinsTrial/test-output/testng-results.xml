@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44599" started-at="2014-10-07T12:41:29Z" finished-at="2014-10-07T12:42:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44599" started-at="2014-10-07T12:41:29Z" finished-at="2014-10-07T12:42:14Z">
+      <class name="Module1.LoginModule">
+        <test-method status="PASS" signature="LoginTestCase()[pri:0, instance:Module1.LoginModule@1b5f356]" name="LoginTestCase" duration-ms="44589" started-at="2014-10-07T12:41:29Z" finished-at="2014-10-07T12:42:14Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

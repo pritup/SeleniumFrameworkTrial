@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/Pritu_Backup/CDrive/Pritup/Jar Files/Selenium 2.40/selenium-java-2.40.0.jar"/>
+	<classpathentry kind="lib" path="E:/Pritu_Backup/CDrive/Pritup/Jar Files/Selenium 2.40/selenium-java-2.40.0-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/Pritu_Backup/CDrive/Pritup/Jar Files/Selenium 2.40/selenium-server-standalone-2.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/FileUtils.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/smtp.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="D:/Jar_Files/Excel/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
